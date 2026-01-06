@@ -1,0 +1,31 @@
+Variables
+
+A variable is an identifier that points to a memory location where data is stored. The value in a variable can change during the execution of a program. 
+
+Declaration: The process of creating a variable, often involving specifying its data type and a unique name (identifier).
+Assignment: The process of storing a specific value in a declared variable.
+Naming Rules: While specific rules vary by programming language (e.g., Python uses snake_case, Java uses camelCase), common constraints include:
+Must start with a letter, underscore _, or dollar sign $.
+Cannot start with a digit.
+Cannot contain spaces or special characters.
+Cannot be a reserved keyword in the language.
+Names are often case-sensitive. 
+
+
+Data Types
+
+Data types determine the kind of values a variable can hold, the amount of memory it uses, and the operations that can be performed on it. They are generally categorized into primitive and non-primitive (or reference) types. 
+Common Primitive Data Types
+These represent single, simple values. 
+Integer (int): Whole numbers (positive and negative), e.g., 42, -5.
+Floating-Point (float, double): Numbers with a fractional part (decimals), e.g., 3.14, 9.99.
+Boolean (bool): Logical values representing either true or false.
+Character (char): A single character, letter, or symbol.
+String: A sequence of characters, typically used for text, e.g., "Hello, World!". 
+
+Common Non-Primitive (Reference) Data Types
+
+These store collections of data or more complex entities. 
+Arrays: Ordered lists of values, accessed by an index.
+Objects: Collections of key-value pairs, used to store more complex, structured data.
+Functions: Reusable blocks of code that can be stored and executed. 
